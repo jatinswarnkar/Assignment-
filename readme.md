@@ -24,8 +24,7 @@ By default, Django signals run in the **same database transaction** as the calle
 3. Iterating over the instance should return:
    - First: A dictionary with the key `length` and its corresponding value.
    - Second: A dictionary with the key `width` and its corresponding value.
-Made the required class in rectangle_class.py
-
 ---
+Made the required class in rectangle_class.py
 
 
